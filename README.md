@@ -83,8 +83,8 @@ O robô deverá acessar:
     - Armazenamento de dados no banco SQL.
     - Extração de dados com consultas SQL.
 - **Documentação**:
-- Boas Práticas na construção do PDD e SDD (material/documentação);
-- Comunicação clara, “Symples” e objetiva na apresentação do código e das documentações. 
+    - Boas Práticas na construção do PDD e SDD (material/documentação);
+    - Comunicação clara, “Symples” e objetiva na apresentação do código e das documentações. 
 
 ## Entregáveis:
 - Código-fonte em um repositório Git.
