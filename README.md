@@ -71,8 +71,6 @@ O robô deverá acessar:
 - **Interação com Ferramentas**:
     - Web scraping com Selenium.
     - Manipulação de dados com Pandas.
-    - Armazenamento de dados no banco SQL.
-    - Extração de dados com consultas SQL.
 
 ## Entregáveis:
 - Código-fonte em um repositório Git.
