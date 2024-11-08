@@ -1,4 +1,4 @@
-# Exercício Prático para Desenvolvedor RPA Python Pleno
+# Exercício Prático para Desenvolvedor RPA Python
 
 ## Objetivo:
 Desenvolver um robô em Python para coletar informações sobre os estados brasileiros, suas capitais, populações e regiões. O robô deverá acessar dois conjuntos de informações, estruturar os dados, armazená-los em um banco de dados SQL e extrair estatísticas de regiões mais populosas. É necessário implementar logs para monitoramento e gerar um **Process Design Document (PDD)** que descreva o processo.
