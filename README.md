@@ -66,6 +66,11 @@ O robô deverá acessar:
 6. Gere logs do processo.
 7. Documente o processo em um PDD.
 
+## Entregáveis:
+- Código-fonte em um repositório Git.
+- Arquivo `top3_regioes_populosas.csv` com as 3 regiões mais populosas.
+- Documento PDD em PDF com o processo detalhado.
+
 ## Critérios de Avaliação:
 - **Estrutura de Código**: 
     - Organização e modularidade.
@@ -86,7 +91,4 @@ O robô deverá acessar:
     - Boas Práticas na construção do PDD e SDD (material/documentação);
     - Comunicação clara, “Symples” e objetiva na apresentação do código e das documentações. 
 
-## Entregáveis:
-- Código-fonte em um repositório Git.
-- Arquivo `top3_regioes_populosas.csv` com as 3 regiões mais populosas.
-- Documento PDD em PDF com o processo detalhado.
+
