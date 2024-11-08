@@ -1,5 +1,9 @@
 # Exercício Prático para Desenvolvedor RPA Python
 
+## Sobre
+Este teste prático avaliará a capacidade do candidato desde a compreensão do processo a ser automatizado e documentação, até o desenvolvimento e comunicação eficaz das soluções propostas por meio de RPA.
+
+
 ## Objetivo:
 Desenvolver um robô em Python para coletar informações sobre os estados brasileiros, suas capitais, populações e regiões. O robô deverá acessar dois conjuntos de informações, estruturar os dados, armazená-los em um banco de dados SQL e extrair estatísticas de regiões mais populosas. É necessário implementar logs para monitoramento e gerar um **Process Design Document (PDD)** que descreva o processo.
 
@@ -63,7 +67,14 @@ O robô deverá acessar:
 7. Documente o processo em um PDD.
 
 ## Critérios de Avaliação:
-- **Estrutura de Código**: Organização e modularidade.
+- **Estrutura de Código**: 
+    - Organização e modularidade.
+    - Funcionalidade correta e completa do robô.
+    - Eficiência do código.
+    - Clareza e organização do código.
+    - Construção de Logs.
+    - Manipulação adequada de exceções e erros;
+    - Boas práticas de codificação em Python;
 - **Uso de Logs**: Qualidade e clareza das mensagens.
 - **Resolução de Problemas**: Capacidade de lidar com erros e garantir o fluxo do processo.
 - **Interação com Ferramentas**:
@@ -71,6 +82,9 @@ O robô deverá acessar:
     - Manipulação de dados com Pandas.
     - Armazenamento de dados no banco SQL.
     - Extração de dados com consultas SQL.
+- **Documentação**:
+- Boas Práticas na construção do PDD e SDD (material/documentação);
+- Comunicação clara, “Symples” e objetiva na apresentação do código e das documentações. 
 
 ## Entregáveis:
 - Código-fonte em um repositório Git.
