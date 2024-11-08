@@ -52,8 +52,6 @@ O robô deverá acessar:
 - Crie um **Process Design Document (PDD)** contendo:
     - Descrição e diagrama do fluxo do processo.
     - Explicação das etapas e sub-etapas do processo.
-    - Tabelas de variáveis e parâmetros de configuração.
-    - Procedimentos de tratamento de erros.
 
 ## Fluxo Esperado:
 1. Acesse o primeiro site para coletar dados de estado, capital e região com Selenium.
@@ -71,6 +69,8 @@ O robô deverá acessar:
 - **Interação com Ferramentas**:
     - Web scraping com Selenium.
     - Manipulação de dados com Pandas.
+    - Armazenamento de dados no banco SQL.
+    - Extração de dados com consultas SQL.
 
 ## Entregáveis:
 - Código-fonte em um repositório Git.
