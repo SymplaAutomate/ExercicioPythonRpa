@@ -42,8 +42,11 @@ O robô deverá acessar:
 - Insira ou atualize as informações na tabela, garantindo consistência e evitando duplicações.
 
 ### 5. Consulta SQL e Exportação para CSV:
-- Realize uma consulta SQL para identificar as 3 regiões mais populosas, com base na soma das populações das capitais de cada região.
-- Salve o resultado da consulta em um arquivo CSV chamado `top3_regioes_populosas.csv`.
+Realize uma consulta SQL para extrair as informaçoes abaixo em seus respectivos arquivos de saida.
+
+- identificar as 3 regiões mais populosas, para:<br>`top3_regioes_populosas.csv`.
+- Regioes e quantidade de capitais, para: <br>`regioes_n_capitais.xls`
+- 2 estados com as capitais mais populosas, para <br> `estados_mais_populosos.xsl`
 
 ### 6. Criação de Logs:
 - Registre logs para monitorar cada etapa do processo:
