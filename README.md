@@ -11,6 +11,8 @@ Desenvolver um robô em Python para coletar informações sobre os estados brasi
 O robô deverá acessar:
 1. [Lista de Estados Brasileiros](https://inanyplace.blogspot.com/2017/01/lista-de-estados-brasileiros-sigla-estado-capital-e-regiao.html) para coletar informações de estados, capitais e regiões.
 2. O arquivo **PopulaçãoxCapital.xlsx** para coletar as populações das capitais.
+3. popular em um banco de dados SQLite
+4. Extrair informaçoes
 
 ## Passos do Exercício
 
