@@ -72,7 +72,7 @@ Realize uma consulta SQL para extrair as informaçoes abaixo em seus respectivos
 7. Documente o processo em um PDD.
 
 ## Entregáveis:
-- Código-fonte em um repositório Git (Diferencial caso venha por um pull request).
+- Código-fonte em um repositório Git.
 - Arquivo `top3_regioes_populosas.csv` com as 3 regiões mais populosas.
 - Documento PDD em PDF com o processo detalhado.
 
