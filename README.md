@@ -48,7 +48,7 @@ Realize uma consulta SQL para extrair as informaçoes abaixo em seus respectivos
 
 - identificar as 3 regiões mais populosas, para:<br>`top3_regioes_populosas.csv`.
 - Regioes e quantidade de capitais, para: <br>`regioes_n_capitais.xls`
-- 2 estados com as capitais mais populosas, para <br> `estados_mais_populosos.xsl`
+- 2 estados com as capitais mais populosas, para <br> `estados_mais_populosos.xsl` asd
 
 ### 6. Criação de Logs:
 - Registre logs para monitorar cada etapa do processo:
