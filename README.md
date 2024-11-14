@@ -73,7 +73,7 @@ Realize uma consulta SQL para extrair as informaçoes abaixo em seus respectivos
 
 ## Entregáveis:
 - Código-fonte em um repositório Git.
-- Arquivo `top3_regioes_populosas.csv` com as 3 regiões mais populosas.
+- Arquivos de dados
 - Documento PDD em PDF com o processo detalhado.
 
 ## Critérios de Avaliação:
